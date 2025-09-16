@@ -12,7 +12,7 @@ export default function About() {
         <div>
           <h2 className="text-4xl font-bold text-indigo-700">About Us</h2>
           <p className="mt-6 text-gray-700 leading-relaxed">
-            At <strong>Academy Aj Kal</strong>, we believe every student deserves
+            At <strong>Future Path Academy</strong>, we believe every student deserves
             the right guidance after FSC or O-Levels. Our programs are designed
             to inspire, motivate, and prepare young minds for their future
             careers. We also empower teachers with modern mentoring skills to

@@ -7,7 +7,7 @@ export default function Footer() {
         
         {/* About */}
         <div>
-          <h2 className="text-xl font-bold text-white">Academy Aj Kal</h2>
+          <h2 className="text-xl font-bold text-white">Future Path Academy</h2>
           <p className="mt-4 text-sm">
             Guiding the next generation with career counselling, motivational
             sessions, and skill development to build brighter futures.
@@ -39,7 +39,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-gray-700 text-center py-4 text-sm text-gray-500">
-        © {new Date().getFullYear()} Academy Aj Kal. All Rights Reserved.
+        © {new Date().getFullYear()} Future Path Academy. All Rights Reserved.
       </div>
     </footer>
   );

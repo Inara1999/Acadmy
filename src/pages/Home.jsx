@@ -6,7 +6,7 @@ export default function Home() {
     <section className="bg-gradient-to-r from-indigo-700 to-purple-700 text-white">
       <div className="max-w-7xl mx-auto px-6 py-24 text-center">
         <h1 className="text-5xl font-bold leading-tight">
-          Welcome to <span className="text-yellow-300">Academy Aj Kal</span>
+          Welcome to <span className="text-yellow-300">Future Path Academy </span>
         </h1>
         <p className="mt-6 max-w-2xl mx-auto text-lg text-indigo-100">
           Confused after FSC or O-Levels? We help you choose the right path
